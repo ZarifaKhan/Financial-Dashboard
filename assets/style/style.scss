@@ -239,6 +239,9 @@ body {
 
         &-inner {
           display: flex;
+          position: absolute;
+          top: 35px;
+          right: 10px;
         }
       }
     }

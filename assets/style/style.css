@@ -3442,6 +3442,9 @@ body {
 }
 .main-container .item-2-footer .circle-inner {
   display: flex;
+  position: absolute;
+  top: 35px;
+  right: 10px;
 }
 .main-container .item-3 {
   display: flex;
